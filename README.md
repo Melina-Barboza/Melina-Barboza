@@ -14,11 +14,11 @@
 
 ## 👩‍💻 Sobre mí
 
-Profesional administrativa con amplia experiencia en gestión operativa, organización de información y soporte a equipos.
+Mi trayectoria profesional en el área administrativa me permitió desarrollar habilidades en organización, gestión de información, control de tareas y seguimiento de procesos.
 
-Actualmente me encuentro en formación en Análisis de Datos, desarrollando habilidades en Excel, SQL, Power BI y visualización de datos para transformar información en decisiones.
+Actualmente, oriento mi carrera hacia el Análisis de Datos, integrando esa experiencia con mi formación en Excel, SQL, Power BI y visualización de datos.
 
-Mi objetivo es desarrollarme profesionalmente como Analista de Datos y construir soluciones basadas en datos que aporten valor a las organizaciones.
+Me interesa utilizar los datos para identificar oportunidades de mejora, optimizar procesos y generar información confiable que facilite la toma de decisiones.
 
 ---
 
