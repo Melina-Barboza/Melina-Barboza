@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Analista+de+Datos;Excel+%7C+SQL+%7C+Power+BI;Transformando+datos+en+información;Aprendiendo+y+creciendo+en+Data+Analytics" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Analista+de+Datos;Excel+%7C+SQL+%7C+Power+BI;Transformando+datos+en+información;Aprendiendo+y+creciendo+en+Data+Analytics" />
-
 </p>
 
 </div>
